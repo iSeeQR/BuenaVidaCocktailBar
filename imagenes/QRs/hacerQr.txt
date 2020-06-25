@@ -1,0 +1,15 @@
+httpswww.codigos-qr.com
+git config user.email"buenavidaplasencia@gmail.com"
+git config user.name"buenavida"
+__Buenavidacocktailbar23
+
+
+StartUp:
+A todos los bar/restaurante/empresa que no tengan su carta/catalogo en QR o lo tengan chapuza, se preguntará si lo quieren implementar o mejorar. Sencilla o directamente. 
+Se pedirá la voluntad, sólo eso. Y si se quiere actualizar la carta de manera moderada, la voluntad también. Se trabajará por voluntad.
+Sólo se necesitá las redes sociales del bar/restaurante/empresa para obtener la información y si no tienen la carta/catalogo en redes sociales, se necesitá en un word/fichero de texto.
+La base de la web ya estaría, incluyendo una pantalla de inicio.
+
+https://XXXX.github.io/BuenaVida
+https://XXXX.github.io/Distrito
+https://XXXX.github.io/Galarza
